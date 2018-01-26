@@ -11,6 +11,7 @@ libraryDependencies ++= Seq(
 //"org.slf4j" % "slf4j-simple" % "1.7.25"
   "org.scalactic" %% "scalactic" % "3.0.4",
   "org.scalatest" %% "scalatest" % "3.0.4" % "test",
+   "com.github.pureconfig" %% "pureconfig" % "0.9.0",
 //  "com.typesafe.play" %% "play-json" % "2.6.7",
 //  "org.scala-lang.modules" %% "scala-parser-combinators" % "1.0.4",
   //  "com.julianpeeters" % "avrohugger-core_2.11" % "0.16.0",
